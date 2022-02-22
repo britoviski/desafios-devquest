@@ -1,6 +1,6 @@
-.moda {
-            background-color: #BB86FC;
-            color: white;
+.moda-th {
+       background-color: #BB86FC;
+       color: white;
 
 }
 
@@ -8,4 +8,9 @@
     background-color: #00C4B4;
     color: white;
 
+}
+
+td {
+    background-color: #424250;
+    color: white;
 }
